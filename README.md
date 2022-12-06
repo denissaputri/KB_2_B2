@@ -1,8 +1,12 @@
 # Klasifikasi Jenis Aves Berdasarkan Ordo
+
+![Screenshot 2022-12-06 153306](https://user-images.githubusercontent.com/74213405/205849745-20e506b0-babb-49ae-92cd-b04940d58769.png)
+
 Burung atau aves adalah hewan yang paling banyak dan sering ditemui disekitar kita. Jenis dan warna serta bantuk yang beragam tentu akan menarik perhatian kita untuk mengetahui jenis dari aves tersebut. salah satu cara yang dapat dilakukan adalah dengan memanfaatkan teknologi di masa sekarang untuk mengetahui jenis dan ragam aves yang memiliki ciri berbeda satu dengan lainnya. Untuk itu dalam project ini kami memilih judul Klasifikasi Jenis Aves Berdasarkan Jenis Ordo yang diharapkan dapat digunakan sebagai media kita untuk mengenali dan mengklasifikasikan  jenis jenis aves berdasarkan ordonya.
 
+
 ### Nama anggota kelompok KB B2_20
-<ol> Anggota kelompok :
+<ol>
     <li>Denissa Putri Maha Rani - 2009106079 <br>
     <li>Alinda Azzahra - 2009106092 <br>
     <li>Nanda Sheptiana - 2009106096 <br>
